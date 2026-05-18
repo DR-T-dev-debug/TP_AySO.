@@ -1,1 +1,340 @@
-history -a .bash_history
+ssh-keygen
+cat $HOME/.ssh/*.pub
+-l ls
+ls
+-ls
+l -ls
+tree
+snap install tree
+sudo snap install tree 
+tree
+man
+cat man
+man man 
+cd
+ls
+cd snap
+ls
+cd ..
+tree
+useradd --help
+man man
+cd
+ls
+cd
+ls
+mkdir repogit
+$HOME/repogit/
+cd HOME
+cd $HOME
+ls
+cd $HOME/repogit/
+ls
+tree
+vagrant man
+--help
+shut off
+off
+end
+vm
+v
+f
+ggg
+out
+off
+man man
+-?
+-' --help
+
+
+
+
+
+
+ls
+c
+d
+sd
+fs
+df
+sdf
+ sd
+ewrf 
+rw e
+t
+rg fg
+
+dfg
+dfb
+tree
+ls
+-ls
+i-ls
+mkdir repogit
+cd
+mkdir repogit
+pwd
+cd
+pwd
+ls
+tree
+mkdir repogit
+ls
+tree
+cd repogit/
+ls
+gitclone git@github.com:DR-T-dev-debug/TP_AySO..git
+git clone git@github.com:DR-T-dev-debug/TP_AySO..git
+ls
+cd TP_AySO./
+pwd
+ls -l
+cat/etc/passwd
+cat /etc/passwd
+man grep
+grep -i Ubuntu /etc/passwd
+mk man
+mkdir man
+ls
+mkdir datos_usuario.txt
+ls
+tree
+cd datos_usuario.txt/
+ls
+grep UBUNTU /etc/passwd
+cd
+cd repogit/
+cd TP_AySO./
+ls
+grep UBUNTU /etc/passwd
+grep ubuntu /etc/passwd
+grep -i Ubuntu /etc/passwd
+cat > datos_usuario.txt
+rm datos_usuario.txt/
+sudo rm datos_usuario.txt/
+mv datos_usuario.txt/
+mv --help
+rm datos_usuario.txt/
+rm --help
+rm -d datos_usuario.txt/
+ls
+cat > datos_usuario.txt
+cat $HOME/.ssh/*.pub
+ls
+cd repogit/
+ls
+cd TP_AySO./
+tree
+pwd
+ls -l
+man grep
+grep UBUNTU /etc/passwd
+grep UBUNTU /etc/passwd
+grep ubuntu /etc/passwd
+grep -i Ubuntu /etc/passwd
+whoami
+echo "Usuario=$(whoami)" >> datos_usuario.txt 
+git add .
+git config --global user.email "gracanosa2017@gmail.com" ; git config --global user.name "DR-T-dev-debug"
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+.bash_history
+history
+grep "model name" /proc/cpuinfo | head -n1 >> info_pc.txt
+cat info_pc.txt 
+git add .
+git commit -m "feat: Añadiendo información del CPU"
+git status
+ls
+rv info_pc.txt 
+rm info_pc.txt 
+ls
+cd repogit/
+ls
+TP_AySO./
+cd TP_AySO./
+tree
+grep "model name" /proc/cpuinfo | head -n1 >> info_pc.txt
+cat info_pc.txt 
+git add .
+git commit -m "feat: Añadiendo información del CPU"
+git status
+tree
+cat info_pc.txt 
+cat datos_usuario.txt 
+grep man
+cd repogit/
+ls
+cd TP_AySO./
+tree
+grepman
+mangrep
+history
+ls
+grep --help
+sort --help
+history
+sort --help
+history
+grep -v "nologin" /etc/passwd | head -n10 >> lista_ordenada.txt
+sort -k7 "lista_ordenada.txt" 
+tree
+history
+git add .
+git commit -m "ADD: Listado de usuarios ordenada" 
+git status
+tree
+cat < FIN >> "README.md" 
+cat > FIN >> "README.md" 
+cd repogit/
+ls
+cd TP_AySO./
+tree
+rm FIN
+ls
+history
+cat << FIN >> README.md 
+Alumno: Tahiel
+División: 115
+Turno: Mañana
+FIN
+
+tree
+history
+git add .
+git commit -m "docs: se modifico un documento"
+git status
+tree
+man mkdir
+mkdir -p arquitectura/so
+tree
+rmdir arquitectura/so
+tree
+rmdir arquitectura/
+tree
+mkdir -p arquitectura/clase1;clase2;clase3;clase4;clase5
+tree
+rmdir arquitectura/
+rmdir arquitectura/clase1/
+rmdir arquitectura/
+tree
+mkdir -p arquitectura/clase1,clase2,clase3,clase4,clase5
+tree
+rmdir arquitectura/clase1,clase2,clase3,clase4,clase5/
+rmdir arquitectura/
+tree
+history
+mkdir arquitectura so
+tree
+rmdir so/
+rmdir arquitectura/
+tree
+mkdir -p "TP1/"/arquitectura/so 
+tree
+rmdir TP1/arquitectura/so
+rmdir TP1/arquitectura
+rmdir TP1
+tree
+mkdir -p "TP1/"/arquitectura/clase1/clase2
+tree
+rmdir TP1/arquitectura/clase1/clase2/
+rmdir TP1/arquitectura/clase1
+rmdir TP1/arquitectura
+rmdir TP1
+tree
+mkdir -p "TP1"/{arquitectura/{clase1,clase2,clase3,clase4,clase5},so/{clase1,clase2,clase3,clase4,clase5}
+tree
+sudo rmdir TP1/
+rm -Rf TP1/
+tree
+mkdir -p "TP1"/{arquitectura/{clase1,clase2,clase3,clase4,clase5},so/{clase1,clase2,clase3,clase4,clase5}}
+tree
+history
+#/bin/bash
+tree
+#!/bin/bash
+mkdir -p "TP1"/{arquitectura/{clase1,clase2,clase3,clase4,clase5},so/{clase1,clase2,clase3,clase4,clase5}}
+script_dir.sh
+treee
+tree
+cat << FIN >> script_dir.sh
+mkdir -p "TP1"/{arquitectura/{clase1,clase2,clase3,clase4,clase5},so/{clase1,clase2,clase3,clase4,clase5}}
+FIN
+
+tree
+chmod +x script_dir.sh 
+./ script_dir.sh 
+tree
+./script_dir.sh 
+tree
+rm script_dir.sh 
+tree
+cat << FIN >> script_dir.sh
+#!/bin/bash
+mkdir -p "TP1"/{arquitectura/{clase1,clase2,clase3,clase4,clase5},so/{clase1,clase2,clase3,clase4,clase5}}
+FIN
+
+tree
+chmod +x script_dir.sh 
+tree
+./script_dir.sh 
+tree
+rm script_dir.sh 
+tree
+cat << FIN >> script_dir.sh
+#!/bin/bash
+echo "mkdir -p "TP1"/{arquitectura/{clase1,clase2,clase3,clase4,clase5},so/{clase1,clase2,clase3,clase4,clase5}}"
+FIN
+
+tree
+chmod +x script_dir.sh 
+./script_dir.sh 
+rm script_dir.sh 
+tree
+#!/bin/bash
+tree
+which bash
+vi script_dir.sh
+cd repogit/
+cd TP_AySO./
+tree
+history
+vi script_dir.sh
+tree
+vi script_dir.sh
+ls
+cd repogit/
+cd TP_AySO./
+ls
+tree
+cat << FIN >> script_dir.sh
+echo "mkdir -p "TP1"/{arquitectura/{clase1,clase2,clase3,clase4,clase5},so/{clase1,clase2,clase3,clase4,clase5}}"
+FIN
+
+sudo chmod 777 script_dir.sh 
+git add .
+git commit -m "ADD: añadiendo script"
+git push
+history
+historytree
+tree
+history -a
+history
+man cp
+man history
+history -a
+cp .bash_history "historial_comandos_DagandCandiaTahiel.txt"
+tree
+git add .
+git commit -m "Hist: historial agregado"
+git status
+git push
+history -a
+cp .bash_history "historial_comandos_DagandCandiaTahiel.txt"
+tree
+cat historial_comandos_DagandCandiaTahiel.txt 
+history
+history -a
+cp .bash_history "historial_comandos_DagandCandiaTahiel.txt"
+history -a $HOME/.bash_history
